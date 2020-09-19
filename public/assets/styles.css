@@ -1,0 +1,36 @@
+.navbar-brand {
+    font-size: xx-large;
+    letter-spacing: 3px;
+}
+
+.index {
+    margin: 100px;
+}
+
+table {
+    border:1px solid black;
+}
+
+
+input[type="text"]{
+    border: 2px solid rgba(26, 34, 77, 0.87);
+}
+
+td {
+    text-align: justify;
+    -moz-text-align-last: right;
+    text-align-last: right;
+}
+
+.products:hover{
+    text-decoration: line-through;
+    background: rgba(0,0,0,0.2);
+}
+
+thead {
+    text-align: justify;
+    -moz-text-align-last: center;
+    text-align-last: center;
+    font-size: x-large;
+    background-color: rgb(255, 115, 80);
+}
